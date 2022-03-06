@@ -2,9 +2,9 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<form action="https://formspree.io/f/moqrwpwv" method="POST">
 				<div class="field half first">
-					<label for="name">Name</label>
+					<label for="name">Imię i nazwisko</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
@@ -12,34 +12,34 @@
 					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">Wiadomość</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="submit" value="Wyślij wiadomość" class="special" /></li>
+					<li><input type="reset" value="Anuluj" /></li>
 				</ul>
 			</form>
 		</section>
 		<section class="split">
-			<section>
-				<div class="contact-method">
+			<section style="display:none;">
+				<div class="contact-method" >
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
-			<section>
-				<div class="contact-method">
+			<section style="display:none;">
+				<div class="contact-method" >
 					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
+					<h3>Telefon</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<h3>Siedziba</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
