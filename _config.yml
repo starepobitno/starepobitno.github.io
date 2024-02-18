@@ -1,8 +1,8 @@
 # site settings
 title: Stare Pobitno
-subtitle: Mieszkać dobrze, żyć szczęśliwie
+subtitle: Myśl globalnie, działaj lokalnie
 email: starepobitno@fastmail.fm
-description: Myśl globalnie, działaj lokalnie
+description: Mieszkać dobrze, żyć szczęśliwie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Stare Pobitno
