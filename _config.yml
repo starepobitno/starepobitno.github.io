@@ -1,9 +1,9 @@
 # site settings
 title: Stare Pobitno
-subtitle: mieszkać dobrze, żyć szczęśliwie
+subtitle: Mieszkać dobrze, żyć szczęśliwie
 email: starepobitno@fastmail.fm
-description: Stare Pobitno, zapraszamy
-baseurl: / # the subpath of your site, e.g. /blog
+description: Myśl globalnie, działaj lokalnie
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Stare Pobitno
 street_address: Lecha 15
@@ -28,7 +28,7 @@ socials:
   Instagram:
   LinkedIn: 
   Twitter: 
-  Facebook:
+  Facebook: https://www.facebook.com/stare.pobitno/
   Slack:
 
 # build settings
