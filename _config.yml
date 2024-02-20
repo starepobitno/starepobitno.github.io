@@ -6,9 +6,9 @@ description: Mieszkać dobrze, żyć szczęśliwie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Stare Pobitno
-street_address: Lecha 15
+street_address:
 city: Rzeszów
-state: 
+state: Polska
 zip_code: 35-301
 country: Polska
 phone: patrz kontakt
