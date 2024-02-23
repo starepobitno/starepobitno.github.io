@@ -6,8 +6,7 @@ image:
 nav-menu: true
 ---
 
-![SSP]({{ site.baseurl }}/assets/images/onas/my.jfif){: style="display: block;margin-left: auto;margin-right: auto; width:50%;"}
-
+{% include image.html img-path="onas/my.jfif" description="Stowarzyszenie Stare Pobitno" img-caption=false %}
 
 Mieszkamy na Starym Pobitnie. Cenimy niepowtarzalny charakter tego miejsca i uważamy, że warto go zachować. Mamy świadomość odrębnych potrzeb tej części osiedla i chcemy o nie dbać. Akceptujemy rozwój, ale przemyślany i kompletny --- zrównoważony.
 
