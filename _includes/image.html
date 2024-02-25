@@ -5,6 +5,6 @@ description: text for alt and caption
 img-caption: toggles image caption
 style: additional css styling
 {% endcomment %}
-<figure class="image" style="text-align:center; {{ include.style }}">
-   <img class="myImg" id="{{ include.img-path }}" src="{{ include.img-path | prepend: "assets/images/" | relative_url }}" alt="{{ include.description }}" title="{{ include.url }}" >
-   {% if include.img-caption %}<figcaption> {{ include.description }} </figcaption>{% endif %}</figure>
+   <figure class="image" style="text-align:center; {{ include.style }}">
+    <img class="myImg" id="{{ include.img-path }}" src="{{ include.img-path | prepend: "assets/images/" | relative_url }}" alt="{{ include.description }}" title="{{ include.url }}" >
+    {% if include.img-caption %}<figcaption> {{ include.description }} </figcaption>{% endif %}</figure>
