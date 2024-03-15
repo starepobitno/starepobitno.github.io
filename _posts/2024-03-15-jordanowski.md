@@ -2,7 +2,7 @@
 layout: post
 title: Kieszonkowy ogród jordanowski
 description: 15 marca 2024
-image: /assets/images/jordanowski/bazie.jpg
+image: /assets/images/jordanowski/hustawka.jfif
 ---
 
 Powyżej boisk Szkoły Podstawowej nr 12 jest jakieś 60 arów miejskiego terenu, na którym planowana jest strefa wypoczynku znana pod nazwą „ogród jordanowski”. Wygląda na to, że po kilku latach starań lokalnych aktywistów (nie nas) sprawa zaczyna nabierać kształtów. W ostatnich dniach lutego dało się słyszeć dźwięki pił spalinowych. Pracownicy Zieleni Miejskiej przycięli trochę krzaki porastające ten teren. Na szczęście większe drzewa zostały. Poniżej lokalizacja ogrodu (ta i pozostałe ilustracje ze specyfikacji przetargowej ZZM).
@@ -17,7 +17,7 @@ Dla ciekawych link do [specyfikacji przetargowej](https://ezamowienia.gov.pl/mp-
 
 {% include image.html img-path="/assets/images/jordanowski/projekt.png" description="Koncepcja urządzenia ogrodu" img-caption=false style="max-width:90%; margin:auto" %}
 
-Koncepcja naszym zdaniem nie jest zła. Naturalne materiały, niezbyt duża ingerencja w teren. Ukszałtowanie terenu pozwala na budowę niewielkiej sceny plenerowej — amfiteatru. Zobaczymy, na podstawie tej koncepcji wykonawca opracuje projekt i zrealizuje go. Będziemy się starali monitorować przebieg.
+Koncepcja naszym zdaniem nie jest zła. Naturalne materiały, niezbyt duża ingerencja w teren. Ukształtowanie terenu pozwala na budowę niewielkiej sceny plenerowej — amfiteatru. Na podstawie tej koncepcji wykonawca opracuje projekt i zrealizuje go. Będziemy się starali monitorować przebieg.
 
 {% include image.html img-path="/assets/images/jordanowski/scena.png" description="Scena plenerowa" img-caption=false style="max-width:90%; margin:auto" %}
 
