@@ -1,0 +1,27 @@
+---
+layout: post
+title: Kieszonkowy ogród jordanowski
+description: 15 marca 2024
+image: /assets/images/jordanowski/bazie.jpg
+---
+
+Powyżej boisk Szkoły Podstawowej nr 12 jest jakieś 60 arów miejskiego terenu, na którym planowana jest strefa wypoczynku znana pod nazwą „ogród jordanowski”. Wygląda na to, że po kilku latach starań lokalnych aktywistów (nie nas) sprawa zaczyna nabierać kształtów. W ostatnich dniach lutego dało się słyszeć dźwięki pił spalinowych. Pracownicy Zieleni Miejskiej przycięli trochę krzaki porastające ten teren. Na szczęście większe drzewa zostały. Poniżej lokalizacja ogrodu (ta i pozostałe ilustracje ze specyfikacji przetargowej ZZM).
+
+{% include image.html img-path="/assets/images/jordanowski/mapka.png" description="Ogród jordanowski na Starym Pobitnie" img-caption=false style="max-width:90%; margin:auto" %}
+
+Zaciekawieni wysłaliśmy pisemko do Zarządu Zieleni Miejskiej z pytaniem o harmonogram prac oraz o wejście na teren ogrodu od ul. Szkolnej, które jak się okazało przebiega przez prywatną działkę i zostało zamknięte. Odpowiedź dostaliśmy dzisiaj. Poniżej krótkie sprawozdanie.
+
+4 marca rozpisano przetarg na zaprojektowanie i wykonanie czterech ogrodów kieszonkowych, między innymi naszego. Inwestycja jest w większej części finansowana z programu rządowego Polski Ład (8 z 9 mln). Termin składania ofert upływa 20 marca, a termin wykonania jest przewidywany na 7 miesięcy. Teoretycznie powinniśmy cieszyć się ogrodem już pod koniec tego roku. Może listopad, może grudzień.
+
+Dla ciekawych link do [specyfikacji przetargowej](https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f7fa01a3-d22a-11ee-875e-a22221c84ba7). Tam, między innymi dość szczegółowe wymagania odnośnie urządzenia ogrodu w pliku [PFU cz. 1-4.zip](https://ezamowienia.gov.pl/mp-client/search/tenderdocument/ocds-148610-f7fa01a3-d22a-11ee-875e-a22221c84ba7/ocds-148610-f7fa01a3-d22a-11ee-875e-a22221c84ba7_7).
+
+{% include image.html img-path="/assets/images/jordanowski/projekt.png" description="Koncepcja urządzenia ogrodu" img-caption=false style="max-width:90%; margin:auto" %}
+
+Koncepcja naszym zdaniem nie jest zła. Naturalne materiały, niezbyt duża ingerencja w teren. Ukszałtowanie terenu pozwala na budowę niewielkiej sceny plenerowej — amfiteatru. Zobaczymy, na podstawie tej koncepcji wykonawca opracuje projekt i zrealizuje go. Będziemy się starali monitorować przebieg.
+
+{% include image.html img-path="/assets/images/jordanowski/scena.png" description="Scena plenerowa" img-caption=false style="max-width:90%; margin:auto" %}
+
+Na koniec ważna wiadomość. ZZM wystąpił do Biura Gospodarki Mieniem o wykup skrawka działki w celu umożliwienia dojścia do ogrodu od strony ul. Szkolnej. Dziękujemy i mamy nadzieję, że sprawa znajdzie pomyślne zakończenie.
+
+{% include image.html img-path="/assets/images/jordanowski/zzm.png" description="Pismo ZZM" img-caption=false style="max-width:90%; margin:auto" %}
+
